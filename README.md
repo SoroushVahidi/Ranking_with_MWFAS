@@ -1,1 +1,8 @@
-This reposity includes code and data for paper https://arxiv.org/html/2412.16181v1. The original data are from https://github.com/SherylHYX/GNNRank, but I have converted the graphs to edge list format, and have put them here.
+# Ranking with MWFAS
+
+Code and data for the paper arxiv.org/html/2412.16181v1  
+Data from GNNRank converted to edge-list format.
+
+Install deps, run main script with desired dataset. Cite the arXiv paper and GNNRank when using.
+
+License: see LICENSE.
